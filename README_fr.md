@@ -40,7 +40,7 @@ But you get the idea: this is your money. These are your expenses. Stop them fro
 
 ## Informations pour les développeurs
 
-Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/firefly-iii_ynh/tree/testing).
+Merci de faire vos pull request sur la [branche testing](https://github.com/7357-2022/hw2k_firefly-iii_ynh/tree/testing).
 
 Pour essayer la branche testing, procédez comme suit.
 
