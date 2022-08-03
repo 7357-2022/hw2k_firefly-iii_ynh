@@ -40,7 +40,7 @@ But you get the idea: this is your money. These are your expenses. Stop them fro
 
 ## Developer info
 
-Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/firefly-iii_ynh/tree/testing).
+Please send your pull request to the [testing branch](https://github.com/7357-2022/hw2k_firefly-iii_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
 
