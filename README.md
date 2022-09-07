@@ -44,7 +44,9 @@ To try the testing branch, please proceed like that.
 
 ``` bash
 sudo yunohost app install https://github.com/7357-2022/hw2k_firefly-iii_ynh/tree/testing --debug
+```
 or
+```
 sudo yunohost app upgrade firefly-iii -u https://github.com/7357-2022/hw2k_firefly-iii_ynh/tree/testing --debug
 ```
 
