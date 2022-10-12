@@ -30,6 +30,7 @@ But you get the idea: this is your money. These are your expenses. Stop them fro
 
 ## Documentation and resources
 
+* Yunohost app: <https://github.com/YunoHost-Apps/firefly-iii_ynh>
 * Official app website: <https://firefly-iii.org/>
 * Official admin documentation: <https://docs.firefly-iii.org/firefly-iii/about-firefly-iii/introduction/>
 * Upstream app code repository: <https://github.com/firefly-iii/firefly-iii>
